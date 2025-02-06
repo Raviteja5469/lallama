@@ -1,3 +1,5 @@
+# ollama server model
+
 import requests
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
